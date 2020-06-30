@@ -39,4 +39,8 @@ export default {
   cursor: pointer;
   float: right;
 }
+
+input[type="checkbox"] {
+  float: left;
+}
 </style>
